@@ -1,3 +1,4 @@
- p{
-  background-color:red;
+<div id="white_on_red">Red is the new green.</div>
+body {background-color: red;
+  color: white;
 }
