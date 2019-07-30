@@ -1,4 +1,4 @@
-<div id="white_on_red">Red is the new green.</div>
-body {background-color: red;
-  color: white;
+#white_on_red{background-color:red;
+  color:white;
 }
+#going_to_the_right{margin: 50x}
