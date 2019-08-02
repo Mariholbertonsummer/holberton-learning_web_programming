@@ -1,1 +1,3 @@
-console.log("hello world!")
+<script>
+   alert( 'Betty Holberton.' );
+ </script>
