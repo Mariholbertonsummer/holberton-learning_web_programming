@@ -1,3 +1,1 @@
-<script>
-   alert( 'Betty Holberton.' );
- </script>
+console.log("Betty holberton!")
